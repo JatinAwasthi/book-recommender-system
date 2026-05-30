@@ -371,8 +371,6 @@ a:active{
 }
 /* MOBILE RESPONSIVE */
 
-/* MOBILE RESPONSIVE */
-
 @media(max-width:768px){
 
     .navbar{
@@ -413,9 +411,10 @@ a:active{
         flex-wrap:wrap !important;
     }
 
-    .col-md-3{
+    .col-xs-6{
         width:50% !important;
-        padding:10px !important;
+        padding:0 10px !important;
+        box-sizing:border-box !important;
     }
 
     .card{
@@ -556,7 +555,7 @@ a:active{
 
             {% for i in data %}
 
-            <div class="col-md-3">
+            <div class="col-xs-6 col-md-3">
 
                 <div class="card">
 
