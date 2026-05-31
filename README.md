@@ -62,7 +62,7 @@ book-recommender-system/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/book-recommender-system.git
+git clone https://github.com/JatinAwasthi/book-recommender-system.git
 ```
 
 Move into the project folder:
