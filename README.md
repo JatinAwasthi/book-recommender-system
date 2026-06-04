@@ -151,7 +151,7 @@ http://127.0.0.1:5000
 Add your Render deployment link here:
 
 ```text
-https://your-app-name.onrender.com
+https://book-recommender-system-qv3m.onrender.com/
 ```
 
 ---
